@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="80" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tile-maker02" tilewidth="32" tileheight="32">
+  <image source="tile-maker02.jpg" width="160" height="160"/>
+ </tileset>
+ <layer name="タイル・レイヤー1" width="15" height="80">
+  <data encoding="base64" compression="zlib">
+   eJyVWO1SgzAQvNqCFVSwhWrf/0WNM9lx2e4F/XEDKfedZbm0j4hDlacixyKnIl0Vd48r6z4XORd5KTJU4Xv204nua5G3Iu9Fpip8D72uXln3o8ilyLXIUoXvoYdcWfdW5LPIV5F7Fb6HHnJl3bXar3KvPhH3p78j1ep08Vsv+6F7M1cd52MU/V72Zq06s7GfY4sFhwlnh9w5b407JHb32mPOm/uE/XO2uM4Uz+WM3v/oKV5Wisc5cx1ZzRP55Jx7irkmcQ/kk5+PFDOL21GN/HymmGtiO5At260mntsH9Ae1oE8OS1ozfGXYHKquyxu+oO9yYyziOfuCvssNPAWMHyQ/6Gc4mKq9w5/bA8Wn2qAfmuck/XI9RD807iL9cj1EHI2r3O96iDgaF3nBttVD5UnkBR/uGbge743mBT33DByE90bzYp5w+zjEln94H/Qb0FGdEMYq1+T8LSLZPjg83UUyPtZvD+wZQ1M8cjh66PJWDGpM5i7tg8ZxtmuSM+upHa//a8t9c/Vy/q24rl7exwyT2TeFdTKOy7DBa7fvGSZ1rVwOrLpade24PKtF1zoDniPHssMQx3uLHMu6VoxeIsey4y3FRba3jrdgy99Th5dsRnTzjs56Ghdcp/POX2Y9N4f9ddY7xON8kvE5fPE8zXYtfsSaZ8O9WnnN8xBmOOTo4vKMD9+oc49neEbleWfv/NDFdl528ydiubg8q7f6mmHK+dTfnM4xPF70rOJ0cG5SvDxLLKdzCo/JV4mVfYfw7eZ8jiaWq3mKX17h86jm05qLMszvvUfgjmxOxzvSOifuzekt7mjNmNfEd+ssztfsLHiL3+9u9v129aJnqHuJ7RmNuUjrBb9B7x7+PXL1Kr/Bl57D5/B5K7f1ZNPiFH2fxthyZYtT8D8E44+50p1p+T8JzvkbsG1BWQ==
+  </data>
+ </layer>
+</map>

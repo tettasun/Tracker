@@ -1,0 +1,16 @@
+//
+//  RootViewController.h
+//  Tracker
+//
+//  Created by 哲太郎 村上 on 12/02/14.
+//  Copyright __MyCompanyName__ 2012年. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+
+@interface RootViewController : UIViewController {
+
+}
+
+@end
